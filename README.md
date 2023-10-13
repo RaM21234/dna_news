@@ -1,5 +1,5 @@
 # dnaindia.com clone
-Clone DNA India is an India-based online news website that covers all the latest and breaking news on Politics, Business, Sports, Bollywood, and Technology news along with a 5 developer in 4 days.
+Clone DNA India is an India-based online news website that covers all the latest and breaking news on Politics, Business, Sports, Bollywood, and Technology news.
 Developed and designed the website using HTML, CSS and Java Script.
 
   
@@ -7,13 +7,6 @@ Developed and designed the website using HTML, CSS and Java Script.
     
     HTML 5, CSS, JavaScript and LocalStorage
     
-  ## Team Members :-
-  - Dikshant Singh Bisht
-  - Sameer Bhavar
-  - Sanket Wankhede
-  - Anukriti
-  - Afzal Qureshi
-  - Shekhar Suman
   
   ## Clone Snaps :-
   ![loginpage](https://user-images.githubusercontent.com/50591381/192936886-1e79cad7-0c2c-4a2d-9c4b-b5f607ab14d1.PNG)
